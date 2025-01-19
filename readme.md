@@ -1,5 +1,6 @@
 [![CircleCI](https://circleci.com/gh/coinbase/react-coinbase-commerce/tree/master.svg?style=svg)](https://circleci.com/gh/coinbase/react-coinbase-commerce/tree/master)
 [![npm version](https://badge.fury.io/js/react-coinbase-commerce.svg)](https://badge.fury.io/js/react-coinbase-commerce)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Freact-coinbase-commerce.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Freact-coinbase-commerce?ref=badge_shield)
 
 
 # Coinbase Commerce React Button 
@@ -70,3 +71,7 @@ type MessageData = {
   code: <CHARGE_CODE>
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Freact-coinbase-commerce.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Freact-coinbase-commerce?ref=badge_large)
